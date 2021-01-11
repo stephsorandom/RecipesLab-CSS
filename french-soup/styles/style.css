@@ -17,9 +17,14 @@ header {
   text-align: center;
   width: 100%;
 }
+
 h1 {
   color: beige;
   position: absolute;
   width: 100%;
   top: 50%;
+}
+
+section {
+  padding: 75px;
 }
