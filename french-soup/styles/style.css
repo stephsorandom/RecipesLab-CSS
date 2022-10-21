@@ -39,3 +39,15 @@ section {
   margin: auto;
   display: block;
 }
+
+#recipeInfo {
+  margin: auto;
+  width: 30%;
+  display: block;
+}
+
+#cookingInfo {
+  margin: auto;
+  width: 28%;
+  display: block;
+}
